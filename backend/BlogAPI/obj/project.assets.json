@@ -1868,11 +1868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 5\\Documents\\Lab Exercise 4\\Pulgar-LE4\\BlogAPI\\BlogAPI.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 7\\Documents\\PULGARLE5\\backend\\BlogAPI\\BlogAPI.csproj",
       "projectName": "BlogAPI",
-      "projectPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 5\\Documents\\Lab Exercise 4\\Pulgar-LE4\\BlogAPI\\BlogAPI.csproj",
+      "projectPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 7\\Documents\\PULGARLE5\\backend\\BlogAPI\\BlogAPI.csproj",
       "packagesPath": "C:\\Users\\John Pulgar\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 5\\Documents\\Lab Exercise 4\\Pulgar-LE4\\BlogAPI\\obj\\",
+      "outputPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 7\\Documents\\PULGARLE5\\backend\\BlogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1894,8 +1894,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 5\\Documents\\Lab Exercise 4\\Pulgar-LE4\\BlogDataLibrary\\BlogDataLibrary.csproj": {
-              "projectPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 5\\Documents\\Lab Exercise 4\\Pulgar-LE4\\BlogDataLibrary\\BlogDataLibrary.csproj"
+            "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 7\\Documents\\PULGARLE5\\backend\\BlogDataLibrary\\BlogDataLibrary.csproj": {
+              "projectPath": "D:\\OneDrive\\Desktop\\School\\Mapua\\College\\2nd Year IT\\3rd Term\\IT128 and IT128L\\WEEK 7\\Documents\\PULGARLE5\\backend\\BlogDataLibrary\\BlogDataLibrary.csproj"
             }
           }
         }

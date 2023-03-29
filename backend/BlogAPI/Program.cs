@@ -18,6 +18,13 @@ namespace BlogAPI
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddCors(options =>
+                options.AddPolicy(name: "LocalApiRequests",
+                policy =>
+                {
+                    policy.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader().AllowCredentials();
+            }));
+
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options
@@ -48,6 +55,7 @@ namespace BlogAPI
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("LocalApiRequests");
             app.UseHttpsRedirection();
 
             app.UseAuthentication();

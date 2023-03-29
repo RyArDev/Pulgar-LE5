@@ -22,3 +22,15 @@ D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\W
 D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 5\Documents\Lab Exercise 4\Pulgar-LE4\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
 D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 5\Documents\Lab Exercise 4\Pulgar-LE4\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
 D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 5\Documents\Lab Exercise 4\Pulgar-LE4\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 7\Documents\PULGARLE5\backend\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll

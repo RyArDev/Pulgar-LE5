@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlogDataLibrary
+build_property.ProjectDir = D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 5\Documents\Lab Exercise 4\Pulgar-LE4\BlogDataLibrary\

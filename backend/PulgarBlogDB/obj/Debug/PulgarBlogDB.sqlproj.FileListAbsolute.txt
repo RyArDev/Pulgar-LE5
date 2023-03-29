@@ -1,0 +1,20 @@
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\bin\Debug\PulgarBlogDB.dacpac
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\bin\Debug\PulgarBlogDB.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\bin\Debug\PulgarBlogDB.pdb
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\PulgarBlogDB.sqlproj.AssemblyReference.cache
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\Model.xml
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\refactor.xml
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\postdeploy.sql
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\predeploy.sql
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\PulgarBlogDB.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\Github\PulgarLE2\PulgarBlogDB\obj\Debug\PulgarBlogDB.pdb
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\bin\Debug\PulgarBlogDB.dacpac
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\bin\Debug\PulgarBlogDB.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\bin\Debug\PulgarBlogDB.pdb
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\PulgarBlogDB.sqlproj.AssemblyReference.cache
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\Model.xml
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\refactor.xml
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\postdeploy.sql
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\predeploy.sql
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\PulgarBlogDB.dll
+D:\OneDrive\Desktop\School\Mapua\College\2nd Year IT\3rd Term\IT128 and IT128L\WEEK 4\Documents\Lab Exercise 3\Pulgar-LE3\PulgarBlogDB\obj\Debug\PulgarBlogDB.pdb
